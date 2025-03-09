@@ -10,19 +10,18 @@ import java.util.Properties;
  * on 25-02-2025 at 22:19
  **/
 public class ConfigReader {
-    private static Properties properties;
+    private Properties properties;
 
-    static {
-        try {
-            FileInputStream file = new FileInputStream("src/main/resources/config.properties");
-            properties = new Properties();
-            properties.load(file);
+    public ConfigReader(String filePath) {
+        properties = new Properties();
+        try (FileInputStream fis = new FileInputStream(filePath)) {
+            properties.load(fis);
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new RuntimeException("Failed to load config file: " + e.getMessage());
         }
     }
 
-    public static String getProperty(String key) {
+    public String getProperty(String key) {
         return properties.getProperty(key);
     }
 }

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Selenium Test Suite">
+    <test name="Login Test">
+        <parameter name="configFile" value="src/main/resources/config.properties"/>
+        <classes>
+            <class name="com.vs.framework.tests.FirstTest"/>
+        </classes>
+    </test>
+</suite>
