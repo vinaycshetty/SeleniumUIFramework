@@ -30,10 +30,10 @@ public class LoginPage extends BasePage {
         try {
             enterText(usernameField, username,5);
         } catch (Exception e) {
-            File file = new File("img3.png");
+            File file = new File("usernameImg.png");
             System.out.println(file.exists());
             Screen screen = new Screen();
-            Pattern pattern = new Pattern(System.getProperty("user.dir") + "/img3.png");
+            Pattern pattern = new Pattern(System.getProperty("user.dir") + "/usernameImg.png");
             screen.wait(pattern,1000);
             screen.click();
             screen.type(username);
