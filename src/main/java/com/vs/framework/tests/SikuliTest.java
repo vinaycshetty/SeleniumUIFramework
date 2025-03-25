@@ -12,12 +12,12 @@ import org.testng.annotations.Test;
  * Created by : Vinay Shetty
  * on 25-02-2025 at 19:15
  **/
-public class FirstTest extends BaseTest {
-    private static final Logger log = LogManager.getLogger(FirstTest.class);
+public class SikuliTest extends BaseTest {
+    private static final Logger log = LogManager.getLogger(SikuliTest.class);
     private static ConfigReader configReader;
 
     @Test
-    public void testLogin() throws FindFailed, InterruptedException {
+    public void testLogin1() throws FindFailed, InterruptedException {
         LoginPage loginPage = new LoginPage(driver);
         configReader = new ConfigReader("src/main/resources/config.properties");
         String url = configReader.getProperty("baseUrl");

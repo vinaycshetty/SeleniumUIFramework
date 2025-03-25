@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d9023c9-fd50-459b-b143-494d07994d1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vs/framework/tests/SikuliTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vs/framework/utils/sikuliUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usernameImage.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vs/framework/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vs/framework/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vs/framework/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vs/framework/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vs/framework/tests/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vs/framework/tests/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,22 +49,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/repo/SeleniumUIFramework/src/main/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinay/Downloads/newCode-main/newCode-main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/repo/SeleniumUIFramework/src/main/java",
+    "last_opened_file_path": "C:/repo/SeleniumUIFramework",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.vs.framework.base" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\repo\SeleniumUIFramework" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\repo\SeleniumUIFramework\src\main\resources" />
       <recent name="C:\repo\SeleniumUIFramework\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vs.framework.tests" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -64,7 +78,7 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/repo/SeleniumUIFramework/src/main/resources/testng.xml">
+  <component name="RunManager" selected="TestNG.SikuliTest.testLogin1">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="SeleniumUIFramework" />
       <method v="2">
@@ -125,8 +139,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SikuliTest.testLogin1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UIFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vs.framework.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vs.framework.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.vs.framework.tests.SikuliTest" />
+      <option name="METHOD_NAME" value="testLogin1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SikuliTest.testLogin1" />
         <item itemvalue="TestNG.C:/repo/SeleniumUIFramework/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.FirstTest.testLogin" />
         <item itemvalue="TestNG.FirstTest.login" />
@@ -143,5 +176,12 @@
       <updated>1740024211870</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="e" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

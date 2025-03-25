@@ -3,7 +3,8 @@
     <test name="Login Test">
         <parameter name="configFile" value="src/main/resources/config.properties"/>
         <classes>
-            <class name="com.vs.framework.tests.FirstTest"/>
+<!--            <class name="com.vs.framework.tests.FirstTest"/>-->
+            <class name="com.vs.framework.tests.SikuliTest"/>
         </classes>
     </test>
 </suite>

@@ -15,9 +15,8 @@ public class BaseTest {
     protected WebDriver driver;
 
     @BeforeMethod
-    @Parameters({"configFile"})
-    public void setUp(String configFile) {
-        WebDriverSetUp.setupDriver(configFile);
+    public void setUp() {
+        WebDriverSetUp.setupDriver("src/main/resources/config.properties");
         driver = WebDriverSetUp.getDriver();
     }
 
