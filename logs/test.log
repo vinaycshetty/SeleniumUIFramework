@@ -1,0 +1,40 @@
+2025-02-25 21:15:10 [main] INFO  com.vs.framework.utils.WaitUtils - Waiting for element visibility: By.name: username
+2025-02-25 21:15:12 [main] INFO  com.vs.framework.utils.WaitUtils - Waiting for element visibility: By.name: password
+2025-02-25 21:15:12 [main] INFO  com.vs.framework.utils.WaitUtils - Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-02-25 21:22:39 [main] INFO  com.vs.framework.utils.WaitUtils - Waiting for element visibility: By.name: username1
+2025-02-25 21:22:49 [main] ERROR com.vs.framework.utils.WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.127, chrome: {chromedriverVersion: 133.0.6943.126 (cffa127ce7b..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53290}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53290/devtoo..., se:cdpVersion: 133.0.6943.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 294b660ef66dd85ac494009860be5a78
+2025-02-25 21:27:20 [main] INFO  com.vs.framework.utils.WaitUtils - Waiting for element visibility: By.name: username
+2025-02-25 21:27:20 [main] INFO  com.vs.framework.utils.WaitUtils - Waiting for element visibility: By.name: password
+2025-02-25 21:27:21 [main] INFO  com.vs.framework.utils.WaitUtils - Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-02-25 21:28:47 [main] INFO  com.vs.framework.utils.WaitUtils - ✅ Waiting for element visibility: By.name: username
+2025-02-25 21:28:48 [main] INFO  com.vs.framework.utils.WaitUtils - ✅ Waiting for element visibility: By.name: password
+2025-02-25 21:28:48 [main] INFO  com.vs.framework.utils.WaitUtils - Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-02-25 22:09:19 [main] INFO  com.vs.framework.utils.WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-02-25 22:09:19 [main] INFO  com.vs.framework.utils.WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-02-25 22:09:19 [main] INFO  com.vs.framework.tests.FirstTest - 🔍 Searching for elements
+2025-02-25 22:09:19 [main] INFO  com.vs.framework.utils.WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-02-25 22:09:21 [main] INFO  com.vs.framework.tests.FirstTest - ✅ Login Successful!
+2025-02-25 22:25:40 [main] INFO  com.vs.base.BaseClass - Starting Test Execution...
+2025-02-25 22:25:45 [main] INFO  com.vs.base.BaseClass - Navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-25 22:25:45 [main] INFO  com.vs.base.BaseClass - Test Execution Completed.
+2025-02-25 22:26:29 [main] INFO  com.vs.base.BaseClass - Starting Test Execution...
+2025-02-25 22:26:34 [main] INFO  com.vs.base.BaseClass - Navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-25 22:26:34 [main] INFO  com.vs.framework.utils.WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-02-25 22:26:34 [main] INFO  com.vs.framework.utils.WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-02-25 22:26:34 [main] INFO  com.vs.framework.tests.FirstTest - 🔍 Verifying user credentials...
+2025-02-25 22:26:34 [main] INFO  com.vs.framework.utils.WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-02-25 22:26:35 [main] INFO  com.vs.framework.tests.FirstTest - ✅ Login Successful!
+2025-02-25 22:26:36 [main] INFO  com.vs.base.BaseClass - Test Execution Completed.
+2025-02-25 22:28:57 [main] INFO  com.vs.base.BaseClass - Starting Test Execution...
+2025-02-25 22:29:01 [main] INFO  com.vs.base.BaseClass - Navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-25 22:29:01 [main] INFO  com.vs.framework.utils.WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-02-25 22:29:01 [main] INFO  com.vs.framework.utils.WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-02-25 22:29:01 [main] INFO  com.vs.framework.tests.FirstTest - 🔍 Verifying user credentials...
+2025-02-25 22:29:01 [main] INFO  com.vs.framework.utils.WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-02-25 22:29:03 [main] INFO  com.vs.framework.tests.FirstTest - ✅ Login Successful!
+2025-02-25 22:29:03 [main] INFO  com.vs.base.BaseClass - Test Execution Completed.

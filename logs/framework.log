@@ -1,0 +1,204 @@
+2025-03-01 21:41:22 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.id: username
+2025-03-01 21:41:27 [main] ERROR WaitUtils - ❌ Element not visible: By.id: username - Error: Expected condition failed: waiting for visibility of element located by By.id: username (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.142, chrome: {chromedriverVersion: 133.0.6943.141 (2a5d6da0d61..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50617}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50617/devtoo..., se:cdpVersion: 133.0.6943.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a51983b3a120f6ee6e8242bbbe864cce
+2025-03-01 21:45:26 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-01 21:45:27 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-01 21:45:27 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-01 21:45:27 [main] INFO  FirstTest - ✅ Login test executed successfully!
+2025-03-20 10:53:29 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-20 10:53:29 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-20 10:53:29 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-20 10:53:29 [main] INFO  FirstTest - ✅ Login test executed successfully!
+2025-03-26 00:49:23 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 00:52:02 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 00:55:15 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 00:57:34 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 01:02:22 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:02:23 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 01:07:53 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:07:54 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 01:12:23 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:12:24 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 01:16:10 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:16:11 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 01:20:01 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:20:03 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 01:20:04 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:20:05 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:21:31 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:21:37 [main] ERROR WaitUtils - ❌ Element not visible: By.name: password - Error: Expected condition failed: waiting for visibility of element located by By.name: password (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55168}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55168/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: addb9eef64f849be795948decdbae4dc
+2025-03-26 01:22:32 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 01:22:40 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:22:40 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:22:40 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:23:35 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username
+2025-03-26 01:26:11 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:26:16 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55262}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55262/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8636f639f35ac29138ff0e4d9f972ce
+2025-03-26 01:27:22 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:27:49 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:27:54 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55297}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55297/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cf1ab64bccf42678b867a26d7964587
+2025-03-26 01:28:16 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:28:16 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:28:16 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:31:13 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:31:18 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55337}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55337/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d46f3d69aa61e1dd4534bce47ed51ac5
+2025-03-26 01:32:51 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:32:56 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55376}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55376/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65ac263cf7188bc3b612c88ce9c37063
+2025-03-26 01:33:59 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:34:00 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 1 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55407}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55407/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8039707e97cbadee21a09d70bc5a2d46
+2025-03-26 01:35:05 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:35:05 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:35:38 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:35:39 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 1 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55439}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55439/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 998ff0500248d754a5cf0387ce33b0c2
+2025-03-26 01:37:43 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:37:43 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:37:43 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:41:11 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:41:12 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:41:12 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:42:23 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:42:28 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55545}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55545/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 70cc73fdf6e7f821089a32f4f9a875db
+2025-03-26 01:43:22 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:43:22 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:43:22 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:45:05 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:45:10 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55593}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55593/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f94bf29597ef106ca96fdee56255bccb
+2025-03-26 01:45:17 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:45:17 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:45:17 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:45:43 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:45:49 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55624}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55624/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 701987e68e18e7eb1bce6f6fcdf991df
+2025-03-26 01:46:14 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:46:14 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:46:14 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:46:39 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:46:45 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55656}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55656/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 93f1387f909b2b1eaaaea562c52c4ca7
+2025-03-26 01:47:01 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:47:01 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:47:01 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:49:07 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:49:13 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55689/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a7672c1772f3ec2c9eb57deea011b37b
+2025-03-26 01:49:34 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:49:39 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55721}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55721/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f201c0df6a5cabd8d958f898ecf1f22b
+2025-03-26 01:49:45 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:49:46 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:49:46 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:50:08 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:50:13 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55751}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55751/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2eb95582f5f0db1f94c9f69b0434f924
+2025-03-26 01:50:20 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:50:20 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:50:20 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:51:16 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:51:21 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55783}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55783/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 02b1354988fbad8c8a0c4e6b74ab95b0
+2025-03-26 01:51:36 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:51:36 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:51:36 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:52:09 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:52:10 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:52:16 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55814}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55814/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 716ae210136363aaa251ddc93d2b6a06
+2025-03-26 01:52:22 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:52:23 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:52:57 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:52:57 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:53:02 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55846/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 53567c97241fdbfd60a45464165f6c2c
+2025-03-26 01:53:09 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:53:11 [main] INFO  SikuliTest - ✅ Login test executed successfully!
+2025-03-26 01:55:52 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: password
+2025-03-26 01:55:53 [main] INFO  WaitUtils - ⌛ Waiting for element visibility: By.name: username1
+2025-03-26 01:55:59 [main] ERROR WaitUtils - ❌ Element not visible: By.name: username1 - Error: Expected condition failed: waiting for visibility of element located by By.name: username1 (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.165, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\vinay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55881}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55881/devtoo..., se:cdpVersion: 134.0.6998.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79136a80e6929ae24f94cf848841e653
+2025-03-26 01:56:06 [main] INFO  WaitUtils - ⌛ Waiting for element to be clickable: By.xpath: //button[contains(@class, 'oxd-button--main')]
+2025-03-26 01:56:06 [main] INFO  SikuliTest - ✅ Login test executed successfully!
